@@ -4,6 +4,8 @@ public class firstProgram {
         System.out.println( "2 3 5 6 a co vk roi");
         System.out.println("Hello fit");
         System.out.println("Push 2 on Windows");
+        System.out.println("Push 3 on Windows");
+        System.out.println("Push 4 on Windows");
 
         System.out.println("========GitHub==========");
         System.out.println( "Sua lai tren github");

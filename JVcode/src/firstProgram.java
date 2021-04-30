@@ -3,6 +3,7 @@ public class firstProgram {
         System.out.println("========Windows==========");
         System.out.println( "2 3 5 6 a co vk roi");
         System.out.println("Hello fit");
+        System.out.println("fix 2");
 
         System.out.println("========GitHub==========");
         System.out.println( "Sua lai tren github");

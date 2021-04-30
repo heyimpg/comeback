@@ -19,6 +19,7 @@ public class firstProgram {
         System.out.println( "up 4 by client1");
         System.out.println( "up 5 by client1");
         System.out.println( "up 6 by client1");
+        System.out.println( "up 7 by client1");
 
         System.out.println("\n\n\n--------End Code--------");
         System.out.println("Start:" +

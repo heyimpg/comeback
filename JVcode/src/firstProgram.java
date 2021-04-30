@@ -13,6 +13,7 @@ public class firstProgram {
         System.out.println( "Sua lai tren client1");
         System.out.println( "up 2 by client1");
         System.out.println( "up 3 by client1");
+        System.out.println( "up 4 by client1");
 
         System.out.println("\n\n\n--------End Code--------");
         System.out.println("Start:" +

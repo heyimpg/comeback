@@ -6,6 +6,7 @@ public class firstProgram {
         System.out.println("Push 2 on Windows");
         System.out.println("Push 3 on Windows");
         System.out.println("Push 4 on Windows");
+        System.out.println("Push 6 on Windows");
 
         System.out.println("========GitHub==========");
         System.out.println( "Sua lai tren github");

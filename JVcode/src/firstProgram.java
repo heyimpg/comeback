@@ -51,5 +51,7 @@ public class firstProgram {
         System.out.println("Push 6 on Windows");
         System.out.println("Push 7 on Windows");
         System.out.println("Push 8 on Windows");
+        
+         System.out.println("Fork 1 on Windows");
     }
 }

@@ -1,10 +1,13 @@
 public class firstProgram {
     public static void main(String[] args) {
 
-        onWindows();
+        /*onWindows();
         onGitHub1();
-        onGitHub2();
-
+        onGitHub2();*/
+        for (int i = 0x20; i < 0x30; i++)
+        {
+            System.out.println("Hello java");
+        }
 
         System.out.println("\n\n\n--------End Code--------");
     }

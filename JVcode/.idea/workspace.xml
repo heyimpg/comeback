@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e3440e1-aba7-471f-b1bc-70270b403c41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dosth/pRegex.java" afterDir="false" />
+    <list default="true" id="2e3440e1-aba7-471f-b1bc-70270b403c41" name="Default Changelist" comment="done exercise java advanced">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/java_json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_json/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_json/b1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise_json/b1_gson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_gson/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_gson/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_gson/gsonFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_gson/gsonSecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_gson/gsonThird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_json/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_json/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_json/jsonFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_json/jsonOnline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_json/jsonSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_json/jsonTes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JVcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JVcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JVcode/java8/mainPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JVcode/java8/mainPerson.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,19 +63,27 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Jetbrain Folder/IDE/Library/gson-2.8.2.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.mainPerson">
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testRebase.wwInterface.interFace_extends.MainClass" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Document Storage\GitHub\comeback\JVcode\src\java_json" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java_gson" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.b1_gson">
+    <configuration name="b1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise_json.b1" />
       <module name="JVcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testRebase.wwInterface.interFace_extends.*" />
+          <option name="PATTERN" value="exercise_json.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.MyApp" />
+    <configuration name="b1_gson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise_json.b1_gson" />
       <module name="JVcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.*" />
+          <option name="PATTERN" value="exercise_json.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +104,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mainPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.mainPerson" />
+    <configuration name="excercise_json" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excercise_json" />
+      <module name="JVcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gsonThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_gson.gsonThird" />
       <module name="JVcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.*" />
+          <option name="PATTERN" value="java_gson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,25 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mainStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dosth.mainStudent" />
+    <configuration name="jsonTes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_json.jsonTes" />
       <module name="JVcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dosth.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="pRegex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dosth.pRegex" />
-      <module name="JVcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dosth.*" />
+          <option name="PATTERN" value="java_json.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.mainPerson" />
-        <item itemvalue="Application.MyApp" />
-        <item itemvalue="Application.mainStudent" />
-        <item itemvalue="Application.pRegex" />
-        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.b1_gson" />
+        <item itemvalue="Application.b1" />
+        <item itemvalue="Application.jsonTes" />
+        <item itemvalue="Application.excercise_json" />
+        <item itemvalue="Application.gsonThird" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +180,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sử dụng interface nâng cao kèm thêm class chuyển đổi ngôn ngữ từ VN sang EN" />
-    <option name="LAST_COMMIT_MESSAGE" value="sử dụng interface nâng cao kèm thêm class chuyển đổi ngôn ngữ từ VN sang EN" />
+    <MESSAGE value="done exercise java advanced" />
+    <option name="LAST_COMMIT_MESSAGE" value="done exercise java advanced" />
   </component>
 </project>
